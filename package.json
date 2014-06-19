@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.4.3",
+    "jersey-gen": ">=0.0.2"
+  }
+}
